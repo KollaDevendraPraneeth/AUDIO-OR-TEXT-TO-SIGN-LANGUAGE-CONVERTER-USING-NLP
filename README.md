@@ -41,10 +41,6 @@ Our project proposes a novel solution to overcome communication barriers by conv
 ### Output Generated
 ![Output Generated](output.png.png)
 
-## Contributor
-
-This project is contributed by [G Jahnavi Devi](https://github.com/gannemjahnavi).
-
 ## Conclusion
 
 The Audio to Sign Language Converter project represents a significant step towards bridging the communication gap between deaf and hearing individuals. By harnessing the power of NLP and computer vision, this system not only enhances accessibility but also promotes inclusivity and empathy in society. Through continued refinement and adoption, we envision a future where communication barriers are dismantled, and mutual understanding prevails.
